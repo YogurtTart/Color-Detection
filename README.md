@@ -1,1 +1,1 @@
-# Color-Detection
+This is a simple mini project using Python and OpenCV for basic color detection through a webcam. The system tracks a specific color (e.g., orange) and highlights it in real-time using bounding boxes.
